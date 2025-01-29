@@ -5,7 +5,7 @@ First Install Hyprland depend on what distro you use
 ```zsh
 yay -S hyprland-git #sudo pacman -S hyprland
 ```
-Now install the ML4W dotfiles
+Now install the ML4W dotfiles (while installing ml4w do not restart
 ```zsh
 yay -S ml4w-hyprland
 ml4w-hyprland-setup
