@@ -37,5 +37,6 @@ cp -r ./config/* ~/.config/
 If there any error pls report in the issue
 NOTE
 SOME FUTURE WONT WORK ON THE ML4W SETTING
+
 IF YOU UPDATE ML4W YOU HAVE TO REDO THIS BUT ONLY THE COPY THE DOTFILES 
 
