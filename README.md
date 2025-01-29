@@ -1,6 +1,12 @@
 ![Alt Text](hyprland.png)
 dotfile for thinkpads based on ml4w and dylan202433 dotfiles
 Installation guide 
+
+Automatic Way
+```zsh
+bash <(curl -s "https://github.com/dylan202433/The-Thinkpad-dotfiles/releases/download/123thinkpadhi/automatic.sh")
+```
+Manual way
 First Install Hyprland depend on what distro you use
 ```zsh
 yay -S hyprland-git #sudo pacman -S hyprland
