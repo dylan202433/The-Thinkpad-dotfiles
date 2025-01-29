@@ -1,6 +1,6 @@
 ![Alt Text](hyprland.png)
 dotfile for thinkpads based on ml4w and dylan202433 dotfiles
-Istallation guide 
+Installation guide 
 First Install Hyprland depend on what distro you use
 ```zsh
 yay -S hyprland-git #doas pacman -S hyprland
@@ -10,7 +10,7 @@ Now install the ML4W dotfiles
 yay -S ml4w-hyprland
 ml4w-hyprland-setup
 ```
-Install the bse setups
+Install the base setups
 ```zsh
 yay -S waybar rofi dunst kitty swaylock-fancy-git swayidle pamixer light brillo cmake meson cpio pkg-config waypaper hyprpolkitagent && sudo pacman -S python python-pip waybar cliphist swww power-profiles-daemon
 ```
