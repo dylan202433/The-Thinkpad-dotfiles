@@ -10,6 +10,7 @@ if you have zsh instead of bash please run
 ```zsh
 bash
 ```
+WARNING THIS SH COMMAND WILL DELETE YOUR SOME OF YOUR CONFIGURATION IN ~/.config PLEASE BACKUP YOUR CONFIGURATION BEFORE DOING THIS
 ### Manual way
 First Install Hyprland depend on what distro you use
 ```zsh
