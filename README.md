@@ -35,7 +35,9 @@ cd The-Thinkpad-dotfiles
 cp -r ./config/* ~/.config/
 ```
 If there any error pls report in the issue
+
 NOTE
+
 SOME FEATURE WONT WORK ON THE ML4W SETTING
 
 IF YOU UPDATE ML4W YOU HAVE TO REDO THIS BUT ONLY THE COPY THE DOTFILES 
