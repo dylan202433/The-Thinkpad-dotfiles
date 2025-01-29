@@ -1,3 +1,3 @@
-# The-Thinkpad-dotfiles
-thinkpad hyprland dotfile
-echo "hello world"
+
+
+yay -S hyprl
