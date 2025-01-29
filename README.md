@@ -32,7 +32,7 @@ Now copy the dotfile
 ```zsh
 git clone https://github.com/dylan202433/The-Thinkpad-dotfiles.git
 cd The-Thinkpad-dotfiles
-cp -r ./config/* ~/.config/
+sudo cp -r ./config/* ~/.config/
 ```
 If there any error pls report in the issue
 
@@ -42,3 +42,8 @@ SOME FEATURE WONT WORK ON THE ML4W SETTING
 
 IF YOU UPDATE ML4W YOU HAVE TO REDO THIS BUT ONLY THE COPY THE DOTFILES 
 
+Common issue
+
+Wont Copy?
+
+delete the directory like hypr, ags , etc 
