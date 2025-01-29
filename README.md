@@ -6,6 +6,10 @@ Automatic Way
 ```zsh
 bash <(curl -s "https://github.com/dylan202433/The-Thinkpad-dotfiles/releases/download/123thinkpadhi/automatic.sh")
 ```
+if you have zsh instead of bash please run
+```zsh
+bash
+```
 Manual way
 First Install Hyprland depend on what distro you use
 ```zsh
