@@ -3,7 +3,7 @@ dotfile for thinkpads based on ml4w and dylan202433 dotfiles
 Installation guide 
 First Install Hyprland depend on what distro you use
 ```zsh
-yay -S hyprland-git #doas pacman -S hyprland
+yay -S hyprland-git #sudo pacman -S hyprland
 ```
 Now install the ML4W dotfiles
 ```zsh
