@@ -1,3 +1,4 @@
+![Alt Text](hyprland.png)
 dotfile for thinkpads based on ml4w and dylan202433 dotfiles
 Istallation guide 
 First Install Hyprland depend on what distro you use
