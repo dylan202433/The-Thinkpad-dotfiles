@@ -47,3 +47,8 @@ Common issue
 Wont Copy?
 
 delete the directory like hypr, ags , etc 
+try 
+```zsh
+sudo rm -r ags bashrc dunst fastfetch gtk-3.0 gtk-4.0 hypr kitty ml4w nvim nwg-dock-hyprland ohmyposh qt6ct rofi wal waybar waypaper wlogout xsettingsd zshrc
+```
+and then try to copy again
