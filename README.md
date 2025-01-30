@@ -2,7 +2,7 @@
 dotfile for thinkpads based on ml4w and dylan202433 dotfiles
 Installation guide 
 ### Automatic Way
-WIB
+WIP
 ### Manual way
 First Install Hyprland depend on what distro you use
 ```zsh
