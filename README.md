@@ -3,6 +3,7 @@ dotfile for thinkpads based on ml4w and dylan202433 dotfiles
 Installation guide 
 
 ### Automatic Way
+make sure you have yay install 
 ```zsh
 wget https://github.com/dylan202433/The-Thinkpad-dotfiles/releases/download/123thinkpadhi/automatic.sh
 sudo chmod +x automatic.sh
