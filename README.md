@@ -1,11 +1,5 @@
 ![Alt Text](hyprland.png)
 dotfile for thinkpads based on ml4w and dylan202433 dotfiles
- _____ _     _       _                    _
-|_   _| |__ (_)_ __ | | ___ __   __ _  __| |
-  | | | '_ \| | '_ \| |/ / '_ \ / _` |/ _` |
-  | | | | | | | | | |   <| |_) | (_| | (_| |
-  |_| |_| |_|_|_| |_|_|\_\ .__/ \__,_|\__,_|
-                         |_|
 Installation guide 
 
 ### Automatic Way
