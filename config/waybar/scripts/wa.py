@@ -1,4 +1,3 @@
 import subprocess
-
-url = "https://chat.openai.com/"
+url = "https://web.whatsapp.com/"
 subprocess.run(["/usr/bin/google-chrome-beta", url])
