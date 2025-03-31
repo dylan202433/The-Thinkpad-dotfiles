@@ -37,11 +37,11 @@ window#waybar.hidden {
 }
 
 #workspaces button.active {
-  color: #ffffff;
+  color: @color5;
 }
 
 #workspaces button.urgent {
-  background-color: #eb4d4b;
+  background-color: @color4;
 }
 
 #window {
@@ -65,7 +65,11 @@ window#waybar.hidden {
 #mode,
 #idle_inhibitor,
 #mpd,
-#custom-cliphist,	
+#custom-cliphist,
+#custom-reddit,
+#custom-deepseek,	
+#custom-whatapps,
+#custom-discord,
 #custom-updates,
 #custom-launcher,
 #user,
@@ -86,10 +90,10 @@ window#waybar.hidden {
 #custom-weather.showyIcyDay,
 #custom-weather.snowyIcyNight,
 #custom-weather.default {
-  padding: 0 10px;
+  padding: 5 15px;
   color: @color3;
   /* color: #ffffff; */
-  border-radius: 9.5px;
+  border-radius: 10px;
   background-color: transparent;
 }
 
@@ -100,12 +104,12 @@ window#waybar.hidden {
   background-color: transparent;
 }
 #cpu {
-  color: @color4;
+  color: @color8;
   background-color: transparent;
 }
 
 #memory {
-  color: @color5;
+  color: @color0;
   background-color: transparent;
 }
 
@@ -212,7 +216,6 @@ label:focus {
 }
 
 #disk {
-  background-color: #964b00;
 }
 
 #bluetooth {
@@ -256,6 +259,7 @@ label:focus {
 
 #tray > .passive {
   -gtk-icon-effect: dim;
+  color: @color6;
 }
 
 #tray > .needs-attention {
@@ -341,11 +345,59 @@ label:focus {
   padding: 0 10px;
   margin: 0 4px;
   /* background-color: #1db954; */
-  color: @color3;
+  color: @color9;
 }
 #custom-kbd_backlight {
   padding: 0 10px;
   margin: 0 4px;
   /* background-color: #1db954; */
-  color: @color3;
+  color: @color8;
+}
+#tray {
+  padding: 0 10px;
+  margin: 0 4px;
+  /* background-color: #1db954; */
+  color: @color4;
+}
+#custom-deepseek {
+  padding: 0 10px;
+  margin: 0 4px;
+  /* background-color: #1db954; */
+  color: @color8;
+}
+#user {
+  padding: 0 10px;
+  margin: 0 4px;
+  /* background-color: #1db954; */
+  color: @color1;
+}
+#custom-reddit {
+  padding: 0 10px;
+  margin: 0 4px;
+  /* background-color: #1db954; */
+  color: @color5;
+}
+#custom-discord {
+  padding: 0 10px;
+  margin: 0 4px;
+  /* background-color: #1db954; */
+  color: @color2;
+}
+#custom-whatapps {
+  padding: 0 10px;
+  margin: 0 4px;
+  /* background-color: #1db954; */
+  color: @color6;
+}
+#disk {
+  padding: 0 10px;
+  margin: 0 4px;
+  /* background-color: #1db954; */
+  color: @color6;
+}
+#custom-kbd_backlight {
+  padding: 0 10px;
+  margin: 0 4px;
+  /* background-color: #1db954; */
+  color: @color6;
 }
