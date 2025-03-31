@@ -2,7 +2,12 @@
 dotfile for thinkpads based on ml4w and dylan202433 dotfiles
 Installation guide 
 ### Automatic Way
-WIP
+```
+git clone https://github.com/dylan202433/The-Thinkpad-dotfiles.git
+cd The-Thinkpad-dotfiles
+sudo chmod +x automatic-thinkpad.sh
+./automatic-thinkpad.sh
+```
 ### Manual way
 First Install Hyprland depend on what distro you use
 ```zsh
