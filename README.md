@@ -1,4 +1,5 @@
 ![Alt Text](hyprland1.png)
+
 dotfile for thinkpads based on ml4w and dylan202433 dotfiles
 Installation guide 
 ### Automatic Way
