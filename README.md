@@ -21,7 +21,7 @@ ml4w-hyprland-setup
 ```
 Install the base setups
 ```zsh
-yay -S waybar rofi dunst kitty swaylock-fancy-git swayidle pamixer light brillo cmake meson cpio pkg-config waypaper hyprpolkitagent
+yay -S waybar rofi dunst kitty swaylock-fancy-git swayidle pamixer light brillo cmake meson cpio pkg-config waypaper hyprpolkitagent yt-x-git
 sudo pacman -S python python-pip waybar cliphist swww power-profiles-daemon
 ```
 Required Fonts
