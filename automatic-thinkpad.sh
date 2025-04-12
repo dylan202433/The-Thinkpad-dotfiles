@@ -24,7 +24,7 @@ read -r
 # Install base setups
 echo "Installing base packages..."
 yay -S --noconfirm waybar rofi dunst kitty swaylock-fancy-git swayidle pamixer light brillo cmake meson cpio pkg-config waypaper hyprpolkitagent yt-x-git
-sudo pacman -S --noconfirm python python-pip waybar cliphist swww power-profiles-daemon
+sudo pacman -S --noconfirm python python-pip python-pywal waybar cliphist swww power-profiles-daemon
 
 # Download and install required fonts
 echo "Installing required fonts..."
