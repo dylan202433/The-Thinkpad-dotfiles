@@ -18,7 +18,6 @@ sleep 10
 echo -e "\n ⚠️  WARNING :3"
 echo "The next step needs to be run manually"
 echo "Please run this command *yourself* in a new terminal: ml4w-hyprland-setup"
-echo "And remember~ when it asks if you wanna reboot, say *NO* nya~ >:3"
 echo -e "\nI'll pause here and wait for you to do it~ then press enter to continue~ "
 read -r
 
